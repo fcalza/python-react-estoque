@@ -5,7 +5,7 @@ pip install -r requirements.txt
 flask --app app run --debug
 
 
-# FRONT
+## FRONT
 sudo apt-get update
 sudo apt-get install nodejs
 sudo apt-get install npm
@@ -17,15 +17,14 @@ npm install
 npm start
 
 
-#sugestões de banco
-# tabela para tipo
-# tabela auxiliar para quantidades se for escalar mto
+### sugestões de banco
+tabela para tipo
+tabela auxiliar para quantidades se for escalar mto
 
-
-# mysql -u root -p
-# show databases
-# use estoque
-# select + from mercadoria
+#mysql -u root -p
+#show databases
+#use estoque
+#select + from tabela
 
 
 #validação campos vazios e padrões diferentes
